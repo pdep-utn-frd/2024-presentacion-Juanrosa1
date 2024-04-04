@@ -1,10 +1,1 @@
-# presentacion-
-
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
-
-Ya saben usar git!
+Me llamo Juan, tengo 19 años, termine el secundario en 2022. Me gusta la carrera pero no tanto programar. Me dedico a la venta de productos quimicos en escobar/garin y otro lugares de la zona. 
