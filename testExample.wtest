@@ -1,9 +1,11 @@
-import example.pepita
-
-describe "group of tests for pepita" {
-
-  test "pepita has initial energy" {
-    assert.equals(100, pepita.energy())
-  }
-
+import example.*
+test {
+  delfina.agarrar(play)
+  asssert.equals(diversion=100, delfina.jugar(mario))
+  asssert.equals(diversion=50, delfina.jugar(arkanoi))
+  asssert.equals(diversion=100, delfina.jugar(pokemon))
+  delfina.agarrar(portatil)
+  asssert.equals(diversion=100, delfina.jugar(mario))
+  asssert.equals(diversion=50, delfina.jugar(arkanoi))
+  asssert.equals(diversion=100, delfina.jugar(pokemon))
 }
